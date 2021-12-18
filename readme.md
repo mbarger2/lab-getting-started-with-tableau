@@ -4,6 +4,10 @@
 
 Refer to the `files_for_lab/we_fn_use_c_marketing_customer_value_analysis.csv` dataset.
 
+### Result
+
+Lab can be found at : https://public.tableau.com/app/profile/matthew.w.barger/viz/Unit-4-Lab/2?publish=yes
+
 ### Instructions
 
 1. Load the dataset into a notebook.
@@ -11,3 +15,5 @@ Refer to the `files_for_lab/we_fn_use_c_marketing_customer_value_analysis.csv` d
 3. Create a barplot of the number of customers per **EmploymentStatus** and **Gender**.
 4. Identify **Measurements** and **Dimensions**. Are they the same as the ones in your Pandas dataframe? Modify accordingly.
 5. Save as `unit-4-lab.tbwx`.
+
+
